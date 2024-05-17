@@ -2,8 +2,6 @@ from typing import List
 
 
 # https://leetcode.cn/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-05-17
-
-
 class Solution:
     def maxProfitAssignment(self, difficulty: List[int], profit: List[int], worker: List[int]) -> int:
         # 先将工作按难度和利润排序，这里默认排序规则是先按难度升序排列，相同难度下按利润降序排列
