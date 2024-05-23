@@ -8,3 +8,4 @@
 05.20 [找出最长的超赞子字符串](https://leetcode.cn/problems/find-longest-awesome-substring/description/?envType=daily-question&envId=2024-05-20)  
 05.21 [找出最大的可达成数字](https://leetcode.cn/problems/find-the-maximum-achievable-number/description/?envType=daily-question&envId=2024-05-21)  
 05.22 [找出输掉零场或一场比赛的玩家](https://leetcode.cn/problems/find-players-with-zero-or-one-losses/description/?envType=daily-question&envId=2024-05-22)  
+05.23 [找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/description/?envType=daily-question&envId=2024-05-23)
