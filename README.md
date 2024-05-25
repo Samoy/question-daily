@@ -9,4 +9,5 @@
 05.21 [找出最大的可达成数字](https://leetcode.cn/problems/find-the-maximum-achievable-number/description/?envType=daily-question&envId=2024-05-21)  
 05.22 [找出输掉零场或一场比赛的玩家](https://leetcode.cn/problems/find-players-with-zero-or-one-losses/description/?envType=daily-question&envId=2024-05-22)  
 05.23 [找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/description/?envType=daily-question&envId=2024-05-23)  
-05.24 [找出最有竞争力的子序列](https://leetcode.cn/problems/find-the-most-competitive-subsequence/?envType=daily-question&envId=2024-05-25)
+05.24 [找出最有竞争力的子序列](https://leetcode.cn/problems/find-the-most-competitive-subsequence/?envType=daily-question&envId=2024-05-25)  
+05.25 [找出满足差值条件的下标I](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-i/?envType=daily-question&envId=2024-05-25)
