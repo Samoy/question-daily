@@ -12,3 +12,4 @@
 05.24 [找出最有竞争力的子序列](https://leetcode.cn/problems/find-the-most-competitive-subsequence/?envType=daily-question&envId=2024-05-25)  
 05.25 [找出满足差值条件的下标I](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-i/?envType=daily-question&envId=2024-05-25)  
 05.26 [找出第K大的异或坐标值](https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value/description/?envType=daily-question&envId=2024-05-26)  
+05.27 [找出缺失的观测数据](https://leetcode.cn/problems/find-missing-observations/description/?envType=daily-question&envId=2024-05-27)  
