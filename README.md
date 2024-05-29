@@ -16,4 +16,5 @@
 05.25 [找出满足差值条件的下标I](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-i/?envType=daily-question&envId=2024-05-25)  
 05.26 [找出第K大的异或坐标值](https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value/description/?envType=daily-question&envId=2024-05-26)  
 05.27 [找出缺失的观测数据](https://leetcode.cn/problems/find-missing-observations/description/?envType=daily-question&envId=2024-05-27)    
-05.28 [找出峰值](https://leetcode.cn/problems/find-the-peaks/description/?envType=daily-question&envId=2024-05-28)
+05.28 [找出峰值](https://leetcode.cn/problems/find-the-peaks/description/?envType=daily-question&envId=2024-05-28)  
+05.29 [找出出现至少三次的最长特殊子字符串Ⅰ](https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-i/description/?envType=daily-question&envId=2024-05-29)  
