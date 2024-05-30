@@ -18,3 +18,4 @@
 05.27 [找出缺失的观测数据](https://leetcode.cn/problems/find-missing-observations/description/?envType=daily-question&envId=2024-05-27)    
 05.28 [找出峰值](https://leetcode.cn/problems/find-the-peaks/description/?envType=daily-question&envId=2024-05-28)  
 05.29 [找出出现至少三次的最长特殊子字符串Ⅰ](https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-i/description/?envType=daily-question&envId=2024-05-29)  
+05.30 [找出出现至少三次的最长特殊子字符串Ⅱ](https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-ii/description/?envType=daily-question&envId=2024-05-30)  
