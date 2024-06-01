@@ -19,4 +19,8 @@
 05.28 [找出峰值](https://leetcode.cn/problems/find-the-peaks/description/?envType=daily-question&envId=2024-05-28)  
 05.29 [找出出现至少三次的最长特殊子字符串Ⅰ](https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-i/description/?envType=daily-question&envId=2024-05-29)  
 05.30 [找出出现至少三次的最长特殊子字符串Ⅱ](https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-ii/description/?envType=daily-question&envId=2024-05-30)  
-05.31 [找出缺失和重复的数字](https://leetcode.cn/problems/find-missing-and-repeated-values/solutions/2792841/zhao-chu-que-shi-he-zhong-fu-de-shu-zi-b-zjw8/?envType=daily-question&envId=2024-05-31)  
+05.31 [找出缺失和重复的数字](https://leetcode.cn/problems/find-missing-and-repeated-values/solutions/2792841/zhao-chu-que-shi-he-zhong-fu-de-shu-zi-b-zjw8/?envType=daily-question&envId=2024-05-31)
+
+### 六月
+06.01 [给小朋友们分糖果I](https://leetcode.cn/problems/distribute-candies-among-children-i/description/?envType=daily-question&envId=2024-06-01)  
+
