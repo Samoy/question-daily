@@ -23,4 +23,4 @@
 
 ### 六月
 06.01 [给小朋友们分糖果I](https://leetcode.cn/problems/distribute-candies-among-children-i/description/?envType=daily-question&envId=2024-06-01)  
-
+06.02 [分糖果](https://leetcode.cn/problems/distribute-candies/description/?envType=daily-question&envId=2024-06-02)  
