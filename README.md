@@ -24,4 +24,5 @@
 ### 六月
 06.01 [给小朋友们分糖果I](https://leetcode.cn/problems/distribute-candies-among-children-i/description/?envType=daily-question&envId=2024-06-01)  
 06.02 [分糖果](https://leetcode.cn/problems/distribute-candies/description/?envType=daily-question&envId=2024-06-02)  
-06.03 [分糖果Ⅱ](https://leetcode.cn/problems/distribute-candies-to-people/description/?envType=daily-question&envId=2024-06-03)
+06.03 [分糖果Ⅱ](https://leetcode.cn/problems/distribute-candies-to-people/description/?envType=daily-question&envId=2024-06-03)  
+06.04 [在带权树网络中统计可连接服务器对数目](https://leetcode.cn/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/?envType=daily-question&envId=2024-06-04)
