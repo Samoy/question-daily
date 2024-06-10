@@ -29,3 +29,5 @@
 06.05 [将元素分配到两个数组中Ⅱ](https://leetcode.cn/problems/distribute-elements-into-two-arrays-ii/description/?envType=daily-question&envId=2024-06-05)  
 06.06 [区分黑球与白球](https://leetcode.cn/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-06-06)  
 06.07 [相同分数的最大操作数目I](https://leetcode.cn/problems/maximum-number-of-operations-with-the-same-score-i/description/?envType=daily-question&envId=2024-06-07)  
+06.08 [相同分数的最大操作数目II](https://leetcode.cn/problems/maximum-number-of-operations-with-the-same-score-ii/?envType=daily-question&envId=2024-06-08)
+06.09 [戳气球](https://leetcode.cn/problems/burst-balloons/?envType=daily-question&envId=2024-06-09)
