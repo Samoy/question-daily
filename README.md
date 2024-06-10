@@ -22,6 +22,7 @@
 05.31 [找出缺失和重复的数字](https://leetcode.cn/problems/find-missing-and-repeated-values/solutions/2792841/zhao-chu-que-shi-he-zhong-fu-de-shu-zi-b-zjw8/?envType=daily-question&envId=2024-05-31)
 
 ### 六月
+
 06.01 [给小朋友们分糖果I](https://leetcode.cn/problems/distribute-candies-among-children-i/description/?envType=daily-question&envId=2024-06-01)  
 06.02 [分糖果](https://leetcode.cn/problems/distribute-candies/description/?envType=daily-question&envId=2024-06-02)  
 06.03 [分糖果Ⅱ](https://leetcode.cn/problems/distribute-candies-to-people/description/?envType=daily-question&envId=2024-06-03)  
@@ -30,4 +31,5 @@
 06.06 [区分黑球与白球](https://leetcode.cn/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-06-06)  
 06.07 [相同分数的最大操作数目I](https://leetcode.cn/problems/maximum-number-of-operations-with-the-same-score-i/description/?envType=daily-question&envId=2024-06-07)  
 06.08 [相同分数的最大操作数目II](https://leetcode.cn/problems/maximum-number-of-operations-with-the-same-score-ii/?envType=daily-question&envId=2024-06-08)  
-06.09 [戳气球](https://leetcode.cn/problems/burst-balloons/?envType=daily-question&envId=2024-06-09)
+06.09 [戳气球](https://leetcode.cn/problems/burst-balloons/?envType=daily-question&envId=2024-06-09)  
+06.10 [求生艇](https://leetcode.cn/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-06-10)
