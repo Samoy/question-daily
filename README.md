@@ -32,4 +32,5 @@
 06.07 [相同分数的最大操作数目I](https://leetcode.cn/problems/maximum-number-of-operations-with-the-same-score-i/description/?envType=daily-question&envId=2024-06-07)  
 06.08 [相同分数的最大操作数目II](https://leetcode.cn/problems/maximum-number-of-operations-with-the-same-score-ii/?envType=daily-question&envId=2024-06-08)  
 06.09 [戳气球](https://leetcode.cn/problems/burst-balloons/?envType=daily-question&envId=2024-06-09)  
-06.10 [求生艇](https://leetcode.cn/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-06-10)
+06.10 [求生艇](https://leetcode.cn/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-06-10)  
+06.11 [甲板上的战舰](https://leetcode.cn/problems/battleships-in-a-board/description/?envType=daily-question&envId=2024-06-11)
