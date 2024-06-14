@@ -35,4 +35,5 @@
 06.10 [求生艇](https://leetcode.cn/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-06-10)  
 06.11 [甲板上的战舰](https://leetcode.cn/problems/battleships-in-a-board/description/?envType=daily-question&envId=2024-06-11)  
 06.12 [取整购买后的账户余额](https://leetcode.cn/problems/account-balance-after-rounded-purchase/description/?envType=daily-question&envId=2024-06-12)    
-06.13 [子序列最大优雅度](https://leetcode.cn/problems/maximum-elegance-of-a-k-length-subsequence/description/?envType=daily-question&envId=2024-06-13)
+06.13 [子序列最大优雅度](https://leetcode.cn/problems/maximum-elegance-of-a-k-length-subsequence/description/?envType=daily-question&envId=2024-06-13)    
+06.14 [访问数组中的位置使分数最大](https://leetcode.cn/problems/visit-array-positions-to-maximize-score/?envType=daily-question&envId=2024-06-14)
