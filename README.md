@@ -37,6 +37,7 @@
 06.12 [取整购买后的账户余额](https://leetcode.cn/problems/account-balance-after-rounded-purchase/description/?envType=daily-question&envId=2024-06-12)    
 06.13 [子序列最大优雅度](https://leetcode.cn/problems/maximum-elegance-of-a-k-length-subsequence/description/?envType=daily-question&envId=2024-06-13)    
 06.14 [访问数组中的位置使分数最大](https://leetcode.cn/problems/visit-array-positions-to-maximize-score/?envType=daily-question&envId=2024-06-14)  
-06.16 [数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=daily-question&envId=2024-06-15)  
-06.17 [最长特殊序列I](https://leetcode.cn/problems/longest-uncommon-subsequence-i/description/?envType=daily-question&envId=2024-06-16)  
+06.15 [数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=daily-question&envId=2024-06-15)  
+06.16 [最长特殊序列I](https://leetcode.cn/problems/longest-uncommon-subsequence-i/description/?envType=daily-question&envId=2024-06-16)  
+06.17 [最长特殊序列Ⅱ](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/description/?envType=daily-question&envId=2024-06-17)  
 
