@@ -41,4 +41,5 @@
 06.16 [最长特殊序列I](https://leetcode.cn/problems/longest-uncommon-subsequence-i/description/?envType=daily-question&envId=2024-06-16)  
 06.17 [最长特殊序列Ⅱ](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/description/?envType=daily-question&envId=2024-06-17)  
 06.18 [价格减免](https://leetcode.cn/problems/apply-discount-to-prices/description/?envType=daily-question&envId=2024-06-18)  
+06.19 [矩阵中严格递增的单元格数](https://leetcode.cn/problems/maximum-strictly-increasing-cells-in-a-matrix/description/?envType=daily-question&envId=2024-06-19)  
 
