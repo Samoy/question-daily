@@ -42,4 +42,5 @@
 06.17 [最长特殊序列Ⅱ](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/description/?envType=daily-question&envId=2024-06-17)  
 06.18 [价格减免](https://leetcode.cn/problems/apply-discount-to-prices/description/?envType=daily-question&envId=2024-06-18)  
 06.19 [矩阵中严格递增的单元格数](https://leetcode.cn/problems/maximum-strictly-increasing-cells-in-a-matrix/description/?envType=daily-question&envId=2024-06-19)  
-06.20 [美丽下标对的数目](https://leetcode.cn/problems/number-of-beautiful-pairs/description/?envType=daily-question&envId=2024-06-20)
+06.20 [美丽下标对的数目](https://leetcode.cn/problems/number-of-beautiful-pairs/description/?envType=daily-question&envId=2024-06-20)  
+06.21 [气温变化趋势](https://leetcode.cn/problems/6CE719/description/?envType=daily-question&envId=2024-06-21)  
