@@ -46,3 +46,4 @@
 06.21 [气温变化趋势](https://leetcode.cn/problems/6CE719/description/?envType=daily-question&envId=2024-06-21)  
 06.22 [字典序最小的美丽字符串](https://leetcode.cn/problems/lexicographically-smallest-beautiful-string/description/?envType=daily-question&envId=2024-06-22)  
 06.23 [检测大写字母](https://leetcode.cn/problems/detect-capital/?envType=daily-question&envId=2024-06-23)  
+06.24 [下一个更大元素Ⅱ](https://leetcode.cn/problems/next-greater-element-ii/?envType=daily-question&envId=2024-06-24)  
