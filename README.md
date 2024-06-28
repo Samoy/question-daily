@@ -50,3 +50,4 @@
 06.25 [找到矩阵中的好子集](https://leetcode.cn/problems/find-a-good-subset-of-the-matrix/description/?envType=daily-question&envId=2024-06-25)   
 06.26 [特别的排列](https://leetcode.cn/problems/special-permutations/description/?envType=daily-question&envId=2024-06-26)  
 06.27 [执行子串操作后的字典序最小字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-substring-operation/description/?envType=daily-question&envId=2024-06-27)  
+06.28 [给墙壁刷油漆](https://leetcode.cn/problems/painting-the-walls/description/?envType=daily-question&envId=2024-06-28)  
