@@ -53,3 +53,6 @@
 06.28 [给墙壁刷油漆](https://leetcode.cn/problems/painting-the-walls/description/?envType=daily-question&envId=2024-06-28)  
 06.29 [移除字符串中的尾随零](https://leetcode.cn/problems/remove-trailing-zeros-from-a-string/description/?envType=daily-question&envId=2024-06-29)  
 06.30 [目标和](https://leetcode.cn/problems/target-sum/description/?envType=daily-question&envId=2024-06-30)  
+
+### 七月
+07.01 [最大化一张图中的路径价值](https://leetcode.cn/problems/maximum-path-quality-of-a-graph/description/?envType=daily-question&envId=2024-07-01)  
