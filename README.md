@@ -56,3 +56,4 @@
 
 ### 七月
 07.01 [最大化一张图中的路径价值](https://leetcode.cn/problems/maximum-path-quality-of-a-graph/description/?envType=daily-question&envId=2024-07-01)  
+07.02 [质数的最大距离](https://leetcode.cn/problems/maximum-prime-difference/description/?envType=daily-question&envId=2024-07-02)  
