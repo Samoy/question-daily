@@ -55,6 +55,8 @@
 06.30 [目标和](https://leetcode.cn/problems/target-sum/description/?envType=daily-question&envId=2024-06-30)  
 
 ### 七月
+
 07.01 [最大化一张图中的路径价值](https://leetcode.cn/problems/maximum-path-quality-of-a-graph/description/?envType=daily-question&envId=2024-07-01)  
 07.02 [质数的最大距离](https://leetcode.cn/problems/maximum-prime-difference/description/?envType=daily-question&envId=2024-07-02)  
 07.03 [哈沙德数](https://leetcode.cn/problems/harshad-number/?envType=daily-question&envId=2024-07-03)  
+07.04 [拾起K个1需要的最少行动次数](https://leetcode.cn/problems/minimum-moves-to-pick-k-ones/description/?envType=daily-question&envId=2024-07-04)  
