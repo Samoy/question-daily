@@ -62,3 +62,4 @@
 07.04 [拾起K个1需要的最少行动次数](https://leetcode.cn/problems/minimum-moves-to-pick-k-ones/description/?envType=daily-question&envId=2024-07-04)  
 07.05 [修改矩阵](https://leetcode.cn/problems/modify-the-matrix/description/?envType=daily-question&envId=2024-07-05)  
 07.06 [交替子数组计数](https://leetcode.cn/problems/count-alternating-subarrays/description/?envType=daily-question&envId=2024-07-06)  
+07.07 [检查操作是否合法](https://leetcode.cn/problems/check-if-move-is-legal/description/?envType=daily-question&envId=2024-07-07)  
