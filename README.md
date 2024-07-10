@@ -65,3 +65,4 @@
 07.07 [检查操作是否合法](https://leetcode.cn/problems/check-if-move-is-legal/description/?envType=daily-question&envId=2024-07-07)  
 07.08 [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/description/?envType=daily-question&envId=2024-07-09)  
 07.09 [最小化曼哈顿距离](https://leetcode.cn/problems/minimize-manhattan-distances/description/?envType=daily-question&envId=2024-07-09)  
+07.10 [统计移除递增子数组的数目 I](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-i/description/?envType=daily-question&envId=2024-07-10)  
