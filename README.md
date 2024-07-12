@@ -67,3 +67,4 @@
 07.09 [最小化曼哈顿距离](https://leetcode.cn/problems/minimize-manhattan-distances/description/?envType=daily-question&envId=2024-07-09)  
 07.10 [统计移除递增子数组的数目 I](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-i/description/?envType=daily-question&envId=2024-07-10)  
 07.11 [统计移除递增子数组的数目 Ⅱ](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-ii/description/?envType=daily-question&envId=2024-07-11)  
+07.12 [最小数字游戏](https://leetcode.cn/problems/minimum-number-game/description/?envType=daily-question&envId=2024-07-12)  
