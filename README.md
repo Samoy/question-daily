@@ -68,3 +68,4 @@
 07.10 [统计移除递增子数组的数目 I](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-i/description/?envType=daily-question&envId=2024-07-10)  
 07.11 [统计移除递增子数组的数目 Ⅱ](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-ii/description/?envType=daily-question&envId=2024-07-11)  
 07.12 [最小数字游戏](https://leetcode.cn/problems/minimum-number-game/description/?envType=daily-question&envId=2024-07-12)  
+07.13 [判断一个数组是否可以变为有序](https://leetcode.cn/problems/find-if-array-can-be-sorted/?envType=daily-question&envId=2024-07-13)
