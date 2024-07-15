@@ -70,3 +70,4 @@
 07.12 [最小数字游戏](https://leetcode.cn/problems/minimum-number-game/description/?envType=daily-question&envId=2024-07-12)  
 07.13 [判断一个数组是否可以变为有序](https://leetcode.cn/problems/find-if-array-can-be-sorted/?envType=daily-question&envId=2024-07-13)
 07.14 [保持城市天际线](https://leetcode.cn/problems/max-increase-to-keep-city-skyline/?envType=daily-question&envId=2024-07-14)  
+07.15 [账户合并](https://leetcode.cn/problems/accounts-merge/?envType=daily-question&envId=2024-07-15)  
