@@ -25,12 +25,12 @@ class Solution:
         ans = float('inf')
 
         # 对 'more_than_one_stones' 列表的所有可能排列进行遍历
-        for from2 in permutations(more_than_one_stones):
+        for more_than_stone in permutations(more_than_one_stones):
             # 初始化总移动距离为0
             total = 0
 
-            # 遍历 'from2' 和 'no_stones' 列表中的元素对，计算并累加移动距离
-            for (x1, y1), (x2, y2) in zip(from2, no_stones):
+            # 遍历 'more_than_stone' 和 'no_stones' 列表中的元素对，计算并累加移动距离
+            for (x1, y1), (x2, y2) in zip(more_than_stone, no_stones):
                 # 计算曼哈顿距离
                 total += abs(x1 - x2) + abs(y1 - y2)
 
