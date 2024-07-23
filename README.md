@@ -78,3 +78,4 @@
 07.20 [将石头分散到网格图的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-spread-stones-over-grid/?envType=daily-question&envId=2024-07-20)  
 07.21 [统计数组中好三元组对的数目](https://leetcode.cn/problems/count-good-triplets-in-an-array/?envType=daily-question&envId=2024-07-21)  
 07.22 [引爆最多的炸弹](https://leetcode.cn/problems/detonate-the-maximum-bombs/?envType=daily-question&envId=2024-07-22)  
+07.23 [求出所有子序列的能量和](https://leetcode.cn/problems/find-the-sum-of-subsequence-powers/?envType=daily-question&envId=2024-07-23)  
