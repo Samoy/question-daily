@@ -79,3 +79,4 @@
 07.21 [统计数组中好三元组对的数目](https://leetcode.cn/problems/count-good-triplets-in-an-array/?envType=daily-question&envId=2024-07-21)  
 07.22 [引爆最多的炸弹](https://leetcode.cn/problems/detonate-the-maximum-bombs/?envType=daily-question&envId=2024-07-22)  
 07.23 [求出所有子序列的能量和](https://leetcode.cn/problems/find-the-sum-of-subsequence-powers/?envType=daily-question&envId=2024-07-23)  
+07.24 [重新放置石块](https://leetcode.cn/problems/relocate-marbles/description/?envType=daily-question&envId=2024-07-24)  
