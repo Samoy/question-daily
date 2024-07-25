@@ -80,3 +80,4 @@
 07.22 [引爆最多的炸弹](https://leetcode.cn/problems/detonate-the-maximum-bombs/?envType=daily-question&envId=2024-07-22)  
 07.23 [求出所有子序列的能量和](https://leetcode.cn/problems/find-the-sum-of-subsequence-powers/?envType=daily-question&envId=2024-07-23)  
 07.24 [重新放置石块](https://leetcode.cn/problems/relocate-marbles/description/?envType=daily-question&envId=2024-07-24)  
+07.25 [生成特殊数字的最少操作](https://leetcode.cn/problems/minimum-operations-to-make-a-special-number/?envType=daily-question&envId=2024-07-25)  
