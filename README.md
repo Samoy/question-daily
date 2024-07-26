@@ -52,7 +52,7 @@
 06.27 [执行子串操作后的字典序最小字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-substring-operation/description/?envType=daily-question&envId=2024-06-27)  
 06.28 [给墙壁刷油漆](https://leetcode.cn/problems/painting-the-walls/description/?envType=daily-question&envId=2024-06-28)  
 06.29 [移除字符串中的尾随零](https://leetcode.cn/problems/remove-trailing-zeros-from-a-string/description/?envType=daily-question&envId=2024-06-29)  
-06.30 [目标和](https://leetcode.cn/problems/target-sum/description/?envType=daily-question&envId=2024-06-30)  
+06.30 [目标和](https://leetcode.cn/problems/target-sum/description/?envType=daily-question&envId=2024-06-30)
 
 ### 七月
 
@@ -80,4 +80,5 @@
 07.22 [引爆最多的炸弹](https://leetcode.cn/problems/detonate-the-maximum-bombs/?envType=daily-question&envId=2024-07-22)  
 07.23 [求出所有子序列的能量和](https://leetcode.cn/problems/find-the-sum-of-subsequence-powers/?envType=daily-question&envId=2024-07-23)  
 07.24 [重新放置石块](https://leetcode.cn/problems/relocate-marbles/description/?envType=daily-question&envId=2024-07-24)  
-07.25 [生成特殊数字的最少操作](https://leetcode.cn/problems/minimum-operations-to-make-a-special-number/?envType=daily-question&envId=2024-07-25)  
+07.25 [生成特殊数字的最少操作](https://leetcode.cn/problems/minimum-operations-to-make-a-special-number/?envType=daily-question&envId=2024-07-25)
+07.26 [找出分区值](https://leetcode.cn/problems/find-the-value-of-the-partition/?envType=daily-question&envId=2024-07-26)  
