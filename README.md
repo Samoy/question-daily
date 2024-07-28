@@ -83,3 +83,4 @@
 07.25 [生成特殊数字的最少操作](https://leetcode.cn/problems/minimum-operations-to-make-a-special-number/?envType=daily-question&envId=2024-07-25)
 07.26 [找出分区值](https://leetcode.cn/problems/find-the-value-of-the-partition/?envType=daily-question&envId=2024-07-26)  
 07.27 [满足距离约束且字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-operations-with-constraint/?envType=daily-question&envId=2024-07-27)  
+07.28 [掉落的方块](https://leetcode.cn/problems/falling-squares/?envType=daily-question&envId=2024-07-28)  
