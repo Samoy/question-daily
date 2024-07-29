@@ -1,23 +1,22 @@
 from typing import List
 
 
-# https://leetcode.cn/problems/falling-squares/?envType=daily-question&envId=2024-07-28
+# https://leetcode.cn/problems/baseball-game/?envType=daily-question&envId=2024-07-29
 class Solution:
-    def fallingSquares(self, positions: List[List[int]]) -> List[int]:
-        n = len(positions)
-        heights = [0] * n
-        for i, (left1, side1) in enumerate(positions):
-            right1 = left1 + side1 - 1
-            heights[i] = side1
-            for j in range(i):
-                left2, right2 = positions[j][0], positions[j][0] + positions[j][1] - 1
-                if right1 >= left2 and right2 >= left1:
-                    heights[i] = max(heights[i], heights[j] + side1)
-        for i in range(1, n):
-            heights[i] = max(heights[i], heights[i - 1])
-        return heights
+    def calPoints(self, operations: List[str]) -> int:
+        score_list = []
+        for o in operations:
+            if o == '+':
+                score_list.append(score_list[-2] + score_list[-1])
+            elif o == 'C':
+                score_list.pop()
+            elif o == 'D':
+                score_list.append(score_list[-1] * 2)
+            else:
+                score_list.append(int(o))
+        return sum(score_list)
 
 
 if __name__ == '__main__':
-    print(Solution().fallingSquares([[1, 2], [2, 3], [6, 1]]))
-    print(Solution().fallingSquares([[100, 100], [200, 100]]))
+    print(Solution().calPoints(["5", "2", "C", "D", "+"]))
+    print(Solution().calPoints(["5", "-2", "4", "C", "D", "9", "+", "+"]))
