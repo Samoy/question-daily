@@ -85,3 +85,4 @@
 07.27 [满足距离约束且字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-operations-with-constraint/?envType=daily-question&envId=2024-07-27)  
 07.28 [掉落的方块](https://leetcode.cn/problems/falling-squares/?envType=daily-question&envId=2024-07-28)  
 07.29 [棒球比赛](https://leetcode.cn/problems/baseball-game/?envType=daily-question&envId=2024-07-29)  
+07.30 [双模幂运算](https://leetcode.cn/problems/double-modular-exponentiation/?envType=daily-question&envId=2024-07-30)  
