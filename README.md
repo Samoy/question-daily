@@ -86,3 +86,4 @@
 07.28 [掉落的方块](https://leetcode.cn/problems/falling-squares/?envType=daily-question&envId=2024-07-28)  
 07.29 [棒球比赛](https://leetcode.cn/problems/baseball-game/?envType=daily-question&envId=2024-07-29)  
 07.30 [双模幂运算](https://leetcode.cn/problems/double-modular-exponentiation/?envType=daily-question&envId=2024-07-30)  
+07.31 [覆盖所有点的最少矩形数目](https://leetcode.cn/problems/minimum-rectangles-to-cover-points/?envType=daily-question&envId=2024-07-31)  
