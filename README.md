@@ -94,3 +94,4 @@
 08.02 [直角三角形](https://leetcode.cn/problems/right-triangles/?envType=daily-question&envId=2024-08-02)  
 08.03 [正方形中的最多点数](https://leetcode.cn/problems/maximum-points-inside-the-square/?envType=daily-question&envId=2024-08-03)  
 08.04 [另一个树的子树](https://leetcode.cn/problems/subtree-of-another-tree/?envType=daily-question&envId=2024-08-04)  
+08.05 [不含连续1的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/?envType=daily-question&envId=2024-08-05)  
