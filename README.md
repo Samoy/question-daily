@@ -97,3 +97,4 @@
 08.05 [不含连续1的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/?envType=daily-question&envId=2024-08-05)  
 08.06 [找出所有稳定的二进制数组I](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-i/?envType=daily-question&envId=2024-08-06)  
 08.07 [找出所有稳定的二进制数组II](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-ii/?envType=daily-question&envId=2024-08-07)  
+08.08 [找出与数组相加的整数I](https://leetcode.cn/problems/find-the-integer-added-to-array-i/?envType=daily-question&envId=2024-08-08)  
