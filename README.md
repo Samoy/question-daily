@@ -98,3 +98,4 @@
 08.06 [找出所有稳定的二进制数组I](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-i/?envType=daily-question&envId=2024-08-06)  
 08.07 [找出所有稳定的二进制数组II](https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-ii/?envType=daily-question&envId=2024-08-07)  
 08.08 [找出与数组相加的整数I](https://leetcode.cn/problems/find-the-integer-added-to-array-i/?envType=daily-question&envId=2024-08-08)  
+08.09 [找出与数组相加的整数II](https://leetcode.cn/problems/find-the-integer-added-to-array-ii/?envType=daily-question&envId=2024-08-09)
