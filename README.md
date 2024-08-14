@@ -1,4 +1,4 @@
-~~# LeetCode 每日1题
+# LeetCode 每日1题
 
 ## 2024
 
