@@ -102,4 +102,5 @@
 08.10 [找出Alice和Bob可以相遇的建筑](https://leetcode.cn/problems/find-building-where-alice-and-bob-can-meet/description/?envType=daily-question&envId=2024-08-10)  
 08.11 [不相交的线](https://leetcode.cn/problems/uncrossed-lines/description/?envType=daily-question&envId=2024-08-11)  
 08.12 [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/?envType=daily-question&envId=2024-08-12)  
-08.13 [特殊数组I](https://leetcode.cn/problems/special-array-i/description/?envType=daily-question&envId=2024-08-13)~~  
+08.13 [特殊数组I](https://leetcode.cn/problems/special-array-i/description/?envType=daily-question&envId=2024-08-13)  
+08.14 [特殊数组II](https://leetcode.cn/problems/special-array-ii/description/?envType=daily-question&envId=2024-08-14)  
