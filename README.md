@@ -104,3 +104,4 @@
 08.12 [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/?envType=daily-question&envId=2024-08-12)  
 08.13 [特殊数组I](https://leetcode.cn/problems/special-array-i/description/?envType=daily-question&envId=2024-08-13)  
 08.14 [特殊数组II](https://leetcode.cn/problems/special-array-ii/description/?envType=daily-question&envId=2024-08-14)  
+08.15 [矩阵中的最大得分](https://leetcode.cn/problems/maximum-difference-score-in-a-grid/?envType=daily-question&envId=2024-08-15)
