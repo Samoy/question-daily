@@ -110,3 +110,4 @@
 08.18 [学生出勤记录I](https://leetcode.cn/problems/student-attendance-record-i/description/?envType=daily-question&envId=2024-08-18)  
 08.19 [学生出勤记录II](https://leetcode.cn/problems/student-attendance-record-ii/description/?envType=daily-question&envId=2024-08-19)  
 08.20 [到达第K级台阶的方案数](https://leetcode.cn/problems/find-number-of-ways-to-reach-the-k-th-stair/?envType=daily-question&envId=2024-08-20)  
+08.21 [价值和小于K的最大数字](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/?envType=daily-question&envId=2024-08-21)  
