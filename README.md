@@ -111,3 +111,5 @@
 08.19 [学生出勤记录II](https://leetcode.cn/problems/student-attendance-record-ii/description/?envType=daily-question&envId=2024-08-19)  
 08.20 [到达第K级台阶的方案数](https://leetcode.cn/problems/find-number-of-ways-to-reach-the-k-th-stair/?envType=daily-question&envId=2024-08-20)  
 08.21 [价值和小于K的最大数字](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/?envType=daily-question&envId=2024-08-21)  
+08.22 [数组最后一个元素的最小值](https://leetcode.cn/problems/minimum-array-end/description/?envType=daily-question&envId=2024-08-22)  
+08.23 [大数组元素的乘积](https://leetcode.cn/problems/find-products-of-elements-of-big-array/description/?envType=daily-question&envId=2024-08-23)  
