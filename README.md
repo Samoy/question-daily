@@ -113,3 +113,5 @@
 08.21 [价值和小于K的最大数字](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/?envType=daily-question&envId=2024-08-21)  
 08.22 [数组最后一个元素的最小值](https://leetcode.cn/problems/minimum-array-end/description/?envType=daily-question&envId=2024-08-22)  
 08.23 [大数组元素的乘积](https://leetcode.cn/problems/find-products-of-elements-of-big-array/description/?envType=daily-question&envId=2024-08-23)  
+08.24 [两个字符串的排列差](https://leetcode.cn/problems/permutation-difference-between-two-strings/description/?envType=daily-question&envId=2024-08-24)  
+08.25 [划分为K个相等的子集](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/description/?envType=daily-question&envId=2024-08-25)  
