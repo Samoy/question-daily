@@ -116,3 +116,4 @@
 08.24 [两个字符串的排列差](https://leetcode.cn/problems/permutation-difference-between-two-strings/description/?envType=daily-question&envId=2024-08-24)  
 08.25 [划分为K个相等的子集](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/description/?envType=daily-question&envId=2024-08-25)  
 08.26 [员工的重要性](https://leetcode.cn/problems/employee-importance/description/?envType=daily-question&envId=2024-08-26)  
+08.27 [找出唯一性数组的中位数](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array/?envType=daily-question&envId=2024-08-27)  
