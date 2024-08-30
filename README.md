@@ -119,3 +119,4 @@
 08.27 [找出唯一性数组的中位数](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array/?envType=daily-question&envId=2024-08-27)  
 08.28 [分割字符频率相等的最少子字符串](https://leetcode.cn/problems/minimum-substring-partition-of-equal-character-frequency/?envType=daily-question&envId=2024-08-28)  
 08.29 [判断矩阵是否满足条件](https://leetcode.cn/problems/check-if-grid-satisfies-conditions/?envType=daily-question&envId=2024-08-29)  
+08.30 [所有数对中数位不同之和](https://leetcode.cn/problems/sum-of-digit-differences-of-all-pairs/?envType=daily-question&envId=2024-08-30)  
