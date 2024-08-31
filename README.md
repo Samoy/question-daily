@@ -120,3 +120,4 @@
 08.28 [分割字符频率相等的最少子字符串](https://leetcode.cn/problems/minimum-substring-partition-of-equal-character-frequency/?envType=daily-question&envId=2024-08-28)  
 08.29 [判断矩阵是否满足条件](https://leetcode.cn/problems/check-if-grid-satisfies-conditions/?envType=daily-question&envId=2024-08-29)  
 08.30 [所有数对中数位不同之和](https://leetcode.cn/problems/sum-of-digit-differences-of-all-pairs/?envType=daily-question&envId=2024-08-30)  
+08.31 [构造相同颜色的正方形](https://leetcode.cn/problems/make-a-square-with-the-same-color/?envType=daily-question&envId=2024-08-31)
