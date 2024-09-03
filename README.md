@@ -125,4 +125,5 @@
 ## 九月
 
 09.01 [在既定时间内做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/description/?envType=daily-question&envId=2024-09-01)  
-09.02 [考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/?envType=daily-question&envId=2024-09-02)
+09.02 [考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/?envType=daily-question&envId=2024-09-02)  
+09.03 [一个小组的最大实力值](https://leetcode.cn/problems/maximum-strength-of-a-group/?envType=daily-question&envId=2024-09-03)  
