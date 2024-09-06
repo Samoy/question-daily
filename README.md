@@ -129,3 +129,4 @@
 09.03 [一个小组的最大实力值](https://leetcode.cn/problems/maximum-strength-of-a-group/?envType=daily-question&envId=2024-09-03)  
 09.04 [让所有学生保持开心的分组方法数](https://leetcode.cn/problems/happy-students/?envType=daily-question&envId=2024-09-04)  
 09.05 [清除数字](https://leetcode.cn/problems/clear-digits/?envType=daily-question&envId=2024-09-05)  
+09.06 [求出最长好子序列I](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-i/?envType=daily-question&envId=2024-09-06)  
