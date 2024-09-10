@@ -133,3 +133,4 @@
 09.07 [求出最长好子序列II](https://leetcode.cn/problems/find-the-maximum-length-of-a-good-subsequence-ii/description/?envType=daily-question&envId=2024-09-07)  
 09.08 [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/description/?envType=daily-question&envId=2024-09-08)  
 09.09 [合并零之间的节点](https://leetcode.cn/problems/merge-nodes-in-between-zeros/description/?envType=daily-question&envId=2024-09-09)  
+09.10 [统计上升四元组](https://leetcode.cn/problems/count-increasing-quadruplets/?envType=daily-question&envId=2024-09-10)  
