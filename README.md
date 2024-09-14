@@ -136,4 +136,5 @@
 09.10 [统计上升四元组](https://leetcode.cn/problems/count-increasing-quadruplets/?envType=daily-question&envId=2024-09-10)  
 09.11 [两个线段获得的最多奖品](https://leetcode.cn/problems/maximize-win-from-two-segments/?envType=daily-question&envId=2024-09-11)  
 09.12 [求出最多标记下标](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/?envType=daily-question&envId=2024-09-12)  
-09.13 [预算内的最多机器人数目](https://leetcode.cn/problems/maximum-number-of-robots-within-budget/?envType=daily-question&envId=2024-09-13)    
+09.13 [预算内的最多机器人数目](https://leetcode.cn/problems/maximum-number-of-robots-within-budget/?envType=daily-question&envId=2024-09-13)   
+09.14 [从字符串中移除星号](https://leetcode.cn/problems/removing-stars-from-a-string/?envType=daily-question&envId=2024-09-14)  
