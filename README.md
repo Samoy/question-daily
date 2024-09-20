@@ -143,3 +143,4 @@
 09.17 [公交路线](https://leetcode.cn/problems/bus-routes/?envType=daily-question&envId=2024-09-17)  
 09.18 [坐上公交的最晚时间](https://leetcode.cn/problems/the-latest-time-to-catch-a-bus/?envType=daily-question&envId=2024-09-18)  
 09.19 [最长的字母序连续子字符串的长度](https://leetcode.cn/problems/length-of-the-longest-alphabetical-continuous-substring/?envType=daily-question&envId=2024-09-19)  
+09.20 [统计特殊整数](https://leetcode.cn/problems/count-special-integers/?envType=daily-question&envId=2024-09-20)  
