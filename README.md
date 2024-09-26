@@ -149,3 +149,4 @@
 09.23 [最佳观光组合](https://leetcode.cn/problems/best-sightseeing-pair/?envType=daily-question&envId=2024-09-23)  
 09.24 [字符串中最多数目的子序列](https://leetcode.cn/problems/maximize-number-of-subsequences-in-a-string/?envType=daily-question&envId=2024-09-24)  
 09.25 [公司命名](https://leetcode.cn/problems/naming-a-company/?envType=daily-question&envId=2024-09-25)  
+09.26 [数组元素和与数字和的绝对差](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/?envType=daily-question&envId=2024-09-26)  
