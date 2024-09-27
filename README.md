@@ -151,3 +151,4 @@
 09.25 [公司命名](https://leetcode.cn/problems/naming-a-company/?envType=daily-question&envId=2024-09-25)  
 09.26 [数组元素和与数字和的绝对差](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/?envType=daily-question&envId=2024-09-26)  
 09.27 [每种字符至少取K个](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/?envType=daily-question&envId=2024-09-27)  
+09.28 [以组为单位订音乐会的门票](https://leetcode.cn/problems/booking-concert-tickets-in-groups/?envType=daily-question&envId=2024-09-28)  
