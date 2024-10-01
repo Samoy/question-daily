@@ -153,4 +153,8 @@
 09.27 [每种字符至少取K个](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/?envType=daily-question&envId=2024-09-27)  
 09.28 [以组为单位订音乐会的门票](https://leetcode.cn/problems/booking-concert-tickets-in-groups/?envType=daily-question&envId=2024-09-28)  
 09.29 [买票需要的时间](https://leetcode.cn/problems/time-needed-to-buy-tickets/?envType=daily-question&envId=2024-09-29)  
-09.30 [座位预约管理系统](https://leetcode.cn/problems/seat-reservation-manager/description/?envType=daily-question&envId=2024-09-30)  
+09.30 [座位预约管理系统](https://leetcode.cn/problems/seat-reservation-manager/description/?envType=daily-question&envId=2024-09-30)
+
+## 10月
+
+10.01 [最低票价](https://leetcode.cn/problems/minimum-cost-for-tickets/?envType=daily-question&envId=2024-10-01)  
