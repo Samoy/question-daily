@@ -159,3 +159,4 @@
 
 10.01 [最低票价](https://leetcode.cn/problems/minimum-cost-for-tickets/?envType=daily-question&envId=2024-10-01)  
 10.02 [准时到达的列车最小时速](https://leetcode.cn/problems/minimum-speed-to-arrive-on-time/?envType=daily-question&envId=2024-10-02)  
+10.03 [规定时间内到达终点的最小花费](https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/?envType=daily-question&envId=2024-10-03)  
