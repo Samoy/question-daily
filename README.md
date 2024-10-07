@@ -160,4 +160,7 @@
 10.01 [最低票价](https://leetcode.cn/problems/minimum-cost-for-tickets/?envType=daily-question&envId=2024-10-01)  
 10.02 [准时到达的列车最小时速](https://leetcode.cn/problems/minimum-speed-to-arrive-on-time/?envType=daily-question&envId=2024-10-02)  
 10.03 [规定时间内到达终点的最小花费](https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/?envType=daily-question&envId=2024-10-03)  
-10.04 [飞机座位分配概率](https://leetcode.cn/problems/airplane-seat-assignment-probability/?envType=daily-question&envId=2024-10-04)
+10.04 [飞机座位分配概率](https://leetcode.cn/problems/airplane-seat-assignment-probability/?envType=daily-question&envId=2024-10-04)  
+10.05 [完成旅途的最少时间](https://leetcode.cn/problems/minimum-time-to-complete-trips/description/?envType=daily-question&envId=2024-10-05)  
+10.06 [加油站](https://leetcode.cn/problems/gas-station/?envType=daily-question&envId=2024-10-06)  
+10.07 [最低加油次数](https://leetcode.cn/problems/minimum-number-of-refueling-stops/description/?envType=daily-question&envId=2024-10-07)  
