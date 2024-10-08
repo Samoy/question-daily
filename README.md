@@ -164,3 +164,4 @@
 10.05 [完成旅途的最少时间](https://leetcode.cn/problems/minimum-time-to-complete-trips/description/?envType=daily-question&envId=2024-10-05)  
 10.06 [加油站](https://leetcode.cn/problems/gas-station/?envType=daily-question&envId=2024-10-06)  
 10.07 [最低加油次数](https://leetcode.cn/problems/minimum-number-of-refueling-stops/description/?envType=daily-question&envId=2024-10-07)  
+10.08 [旅途终点站](https://leetcode.cn/problems/destination-city/?envType=daily-question&envId=2024-10-08)  
