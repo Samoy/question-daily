@@ -167,3 +167,4 @@
 10.08 [旅途终点站](https://leetcode.cn/problems/destination-city/?envType=daily-question&envId=2024-10-08)  
 10.09 [找到按位或最接近 K 的子数组](https://leetcode.cn/problems/find-subarray-with-bitwise-or-closest-to-k/?envType=daily-question&envId=2024-10-09)  
 10.10 [优质数对的总数I](https://leetcode.cn/problems/find-the-number-of-good-pairs-i/?envType=daily-question&envId=2024-10-10)  
+10.11 [优质数对的总数II](https://leetcode.cn/problems/find-the-number-of-good-pairs-ii/?envType=daily-question&envId=2024-10-11)  
