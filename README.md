@@ -170,3 +170,4 @@
 10.11 [优质数对的总数II](https://leetcode.cn/problems/find-the-number-of-good-pairs-ii/?envType=daily-question&envId=2024-10-11)  
 10.12 [求出出现两次数字的 XOR 值](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/?envType=daily-question&envId=2024-10-12)  
 10.13 [鸡蛋掉落-两枚鸡蛋](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/?envType=daily-question&envId=2024-10-13)  
+10.14 [鸡蛋掉落](https://leetcode.cn/problems/super-egg-drop/?envType=daily-question&envId=2024-10-14)  
