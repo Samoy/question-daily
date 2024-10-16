@@ -172,3 +172,4 @@
 10.13 [鸡蛋掉落-两枚鸡蛋](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/?envType=daily-question&envId=2024-10-13)  
 10.14 [鸡蛋掉落](https://leetcode.cn/problems/super-egg-drop/?envType=daily-question&envId=2024-10-14)  
 10.15 [三角形的最大高度](https://leetcode.cn/problems/maximum-height-of-a-triangle/submissions/572798473/?envType=daily-question&envId=2024-10-15)  
+10.16 [最小元素和最大元素的最小平均值](https://leetcode.cn/problems/minimum-average-of-smallest-and-largest-elements/?envType=daily-question&envId=2024-10-16)
