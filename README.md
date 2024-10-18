@@ -174,3 +174,4 @@
 10.15 [三角形的最大高度](https://leetcode.cn/problems/maximum-height-of-a-triangle/submissions/572798473/?envType=daily-question&envId=2024-10-15)  
 10.16 [最小元素和最大元素的最小平均值](https://leetcode.cn/problems/minimum-average-of-smallest-and-largest-elements/?envType=daily-question&envId=2024-10-16)  
 10.17 [统计逆序对的数目](https://leetcode.cn/problems/count-the-number-of-inversions/?envType=daily-question&envId=2024-10-17)  
+10.18 [使二进制数组全部等于 1 的最少操作次数 I](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/?envType=daily-question&envId=2024-10-18)  
