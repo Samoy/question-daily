@@ -176,3 +176,4 @@
 10.17 [统计逆序对的数目](https://leetcode.cn/problems/count-the-number-of-inversions/?envType=daily-question&envId=2024-10-17)  
 10.18 [使二进制数组全部等于 1 的最少操作次数 I](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/?envType=daily-question&envId=2024-10-18)  
 10.19 [使二进制数组全部等于 1 的最少操作次数 II](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/description/?envType=daily-question&envId=2024-10-19)  
+10.20 [最小差值I](https://leetcode.cn/problems/smallest-range-i/?envType=daily-question&envId=2024-10-20)  
