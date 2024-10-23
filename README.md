@@ -179,3 +179,4 @@
 10.20 [最小差值I](https://leetcode.cn/problems/smallest-range-i/?envType=daily-question&envId=2024-10-20)  
 10.21 [最小差值II](https://leetcode.cn/problems/smallest-range-ii/?envType=daily-question&envId=2024-10-21)  
 10.22 [构成整天的下标对数目 I](https://leetcode.cn/problems/count-pairs-that-form-a-complete-day-i/?envType=daily-question&envId=2024-10-22)  
+10.23 [构成整天的下标对数目 II](https://leetcode.cn/problems/count-pairs-that-form-a-complete-day-ii/description/?envType=daily-question&envId=2024-10-23)  
