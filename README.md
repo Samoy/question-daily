@@ -164,7 +164,7 @@
 10.05 [完成旅途的最少时间](https://leetcode.cn/problems/minimum-time-to-complete-trips/description/?envType=daily-question&envId=2024-10-05)  
 10.06 [加油站](https://leetcode.cn/problems/gas-station/?envType=daily-question&envId=2024-10-06)  
 10.07 [最低加油次数](https://leetcode.cn/problems/minimum-number-of-refueling-stops/description/?envType=daily-question&envId=2024-10-07)  
-10.08 [旅途终点站](https://leetcode.cn/problems/destination-city/?envType=daily-question&envId=2024-10-08)  
+10.08 [旅途终点站](https://leetcode.cn/problems/destination-city/?envType=daily-question&envId=2024-10-08)   
 10.09 [找到按位或最接近 K 的子数组](https://leetcode.cn/problems/find-subarray-with-bitwise-or-closest-to-k/?envType=daily-question&envId=2024-10-09)  
 10.10 [优质数对的总数I](https://leetcode.cn/problems/find-the-number-of-good-pairs-i/?envType=daily-question&envId=2024-10-10)  
 10.11 [优质数对的总数II](https://leetcode.cn/problems/find-the-number-of-good-pairs-ii/?envType=daily-question&envId=2024-10-11)  
@@ -183,3 +183,4 @@
 10.24 [找到连续赢 K 场比赛的第一位玩家](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row/?envType=daily-question&envId=2024-10-24)  
 10.25 [执行操作可获得的最大总奖励 I](https://leetcode.cn/problems/maximum-total-reward-using-operations-i/?envType=daily-question&envId=2024-10-25)  
 10.26 [执行操作可获得的最大总奖励 II](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii/?envType=daily-question&envId=2024-10-26)  
+10.27 [冗余连接](https://leetcode.cn/problems/redundant-connection/?envType=daily-question&envId=2024-10-27)  
