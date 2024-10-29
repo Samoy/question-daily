@@ -185,3 +185,4 @@
 10.26 [执行操作可获得的最大总奖励 II](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii/?envType=daily-question&envId=2024-10-26)  
 10.27 [冗余连接](https://leetcode.cn/problems/redundant-connection/?envType=daily-question&envId=2024-10-27)  
 10.28 [冗余连接 II](https://leetcode.cn/problems/redundant-connection-ii/?envType=daily-question&envId=2024-10-28)  
+10.29 [生成不含相邻零的二进制字符串](https://leetcode.cn/problems/generate-binary-strings-without-adjacent-zeros/?envType=daily-question&envId=2024-10-29)  
