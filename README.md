@@ -188,3 +188,6 @@
 10.29 [生成不含相邻零的二进制字符串](https://leetcode.cn/problems/generate-binary-strings-without-adjacent-zeros/?envType=daily-question&envId=2024-10-29)  
 10.30 [交换后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-a-swap/?envType=daily-question&envId=2024-10-30)  
 10.31 [不包含相邻元素的子序列的最大和](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/?envType=daily-question&envId=2024-10-31)
+
+## 11月
+11.01 [超级饮料的最大强化能量](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks/?envType=daily-question&envId=2024-11-01)  
