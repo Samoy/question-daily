@@ -191,3 +191,5 @@
 
 ## 11月
 11.01 [超级饮料的最大强化能量](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks/?envType=daily-question&envId=2024-11-01)  
+11.02 [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/?envType=daily-question&envId=2024-11-02)  
+
