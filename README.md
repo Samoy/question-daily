@@ -194,4 +194,5 @@
 11.02 [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/?envType=daily-question&envId=2024-11-02)  
 11.03 [大礼包](https://leetcode.cn/problems/shopping-offers/?envType=daily-question&envId=2024-11-03)  
 11.04 [平方数之和](https://leetcode.cn/problems/sum-of-square-numbers/?envType=daily-question&envId=2024-11-04)  
+11.05 [求出硬币游戏的赢家](https://leetcode.cn/problems/find-the-winning-player-in-coin-game/?envType=daily-question&envId=2024-11-05)  
 
