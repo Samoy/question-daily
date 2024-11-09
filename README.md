@@ -197,3 +197,5 @@
 11.05 [求出硬币游戏的赢家](https://leetcode.cn/problems/find-the-winning-player-in-coin-game/?envType=daily-question&envId=2024-11-05)  
 11.06 [长度为 K 的子数组的能量值 I](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-i/?envType=daily-question&envId=2024-11-06)  
 11.07 [长度为 K 的子数组的能量值 II](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-ii/?envType=daily-question&envId=2024-11-07)  
+11.08 [判断矩形的两个角落是否可达](https://leetcode.cn/problems/check-if-the-rectangle-corner-is-reachable/description/?envType=daily-question&envId=2024-11-09)  
+11.09 [设计相邻元素求和服务](https://leetcode.cn/problems/design-neighbor-sum-service/?envType=daily-question&envId=2024-11-09)  
