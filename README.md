@@ -201,3 +201,4 @@
 11.09 [设计相邻元素求和服务](https://leetcode.cn/problems/design-neighbor-sum-service/?envType=daily-question&envId=2024-11-09)  
 11.10 [有序数组中的单一元素](https://leetcode.cn/problems/single-element-in-a-sorted-array/?envType=daily-question&envId=2024-11-10)  
 11.11 [切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/?envType=daily-question&envId=2024-11-11)  
+11.12 [统计满足 K 约束的子字符串数量 I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/?envType=daily-question&envId=2024-11-12)  
