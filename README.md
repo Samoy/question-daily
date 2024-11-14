@@ -203,3 +203,4 @@
 11.11 [切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/?envType=daily-question&envId=2024-11-11)  
 11.12 [统计满足 K 约束的子字符串数量 I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/?envType=daily-question&envId=2024-11-12)  
 11.13 [统计满足 K 约束的子字符串数量 II](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-ii/?envType=daily-question&envId=2024-11-13)  
+11.14 [统计好节点的数目](https://leetcode.cn/problems/count-the-number-of-good-nodes/?envType=daily-question&envId=2024-11-14)  
