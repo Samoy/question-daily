@@ -206,3 +206,4 @@
 11.14 [统计好节点的数目](https://leetcode.cn/problems/count-the-number-of-good-nodes/?envType=daily-question&envId=2024-11-14)  
 11.15 [最少翻转次数使二进制矩阵回文 I](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/?envType=daily-question&envId=2024-11-15)  
 11.16 [最少翻转次数使二进制矩阵回文 II](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/?envType=daily-question&envId=2024-11-16)  
+11.17 [适龄的朋友](https://leetcode.cn/problems/friends-of-appropriate-ages/?envType=daily-question&envId=2024-11-17)   
