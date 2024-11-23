@@ -190,6 +190,7 @@
 10.31 [不包含相邻元素的子序列的最大和](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/?envType=daily-question&envId=2024-10-31)
 
 ## 11月
+
 11.01 [超级饮料的最大强化能量](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks/?envType=daily-question&envId=2024-11-01)  
 11.02 [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/?envType=daily-question&envId=2024-11-02)  
 11.03 [大礼包](https://leetcode.cn/problems/shopping-offers/?envType=daily-question&envId=2024-11-03)  
@@ -211,4 +212,5 @@
 11.19 [新增道路查询后的最短距离 I](https://leetcode.cn/problems/shortest-distance-after-road-addition-queries-i/?envType=daily-question&envId=2024-11-19)  
 11.20 [新增道路查询后的最短距离 II](https://leetcode.cn/problems/shortest-distance-after-road-addition-queries-ii/?envType=daily-question&envId=2024-11-20)  
 11.21 [矩阵中的蛇](https://leetcode.cn/problems/snake-in-matrix/?envType=daily-question&envId=2024-11-21)  
-11.22 [统计不是特殊数字的数字数量](https://leetcode.cn/problems/find-the-count-of-numbers-which-are-not-special/?envType=daily-question&envId=2024-11-22)  
+11.22 [统计不是特殊数字的数字数量](https://leetcode.cn/problems/find-the-count-of-numbers-which-are-not-special/?envType=daily-question&envId=2024-11-22)    
+11.23 [求出胜利玩家的数目](https://leetcode.cn/problems/find-the-number-of-winning-players/?envType=daily-question&envId=2024-11-23)    
