@@ -215,3 +215,4 @@
 11.22 [统计不是特殊数字的数字数量](https://leetcode.cn/problems/find-the-count-of-numbers-which-are-not-special/?envType=daily-question&envId=2024-11-22)    
 11.23 [求出胜利玩家的数目](https://leetcode.cn/problems/find-the-number-of-winning-players/?envType=daily-question&envId=2024-11-23)  
 11.24 [最小区间](https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists/?envType=daily-question&envId=2024-11-24)  
+11.25 [网络延迟时间](https://leetcode.cn/problems/network-delay-time/?envType=daily-question&envId=2024-11-25)  
