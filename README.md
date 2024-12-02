@@ -221,3 +221,8 @@
 11.28 [单调数组对的数目 Ⅰ](https://leetcode.cn/problems/find-the-count-of-monotonic-pairs-i/?envType=daily-question&envId=2024-11-28)  
 11.29 [单调数组对的数目 Ⅱ](https://leetcode.cn/problems/find-the-count-of-monotonic-pairs-ii/?envType=daily-question&envId=2024-11-29)  
 11.30 [判断是否可以赢得数字游戏](https://leetcode.cn/problems/find-if-digit-game-can-be-won/?envType=daily-question&envId=2024-11-30)    
+
+## 12月
+
+12.01 [N皇后](https://leetcode.cn/problems/n-queens/?envType=daily-question&envId=2024-12-01)  
+12.02 [N皇后 II](https://leetcode.cn/problems/n-queens-ii/?envType=daily-question&envId=2024-12-02)  
