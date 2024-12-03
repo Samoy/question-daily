@@ -226,3 +226,4 @@
 
 12.01 [N皇后](https://leetcode.cn/problems/n-queens/?envType=daily-question&envId=2024-12-01)  
 12.02 [N皇后 II](https://leetcode.cn/problems/n-queens-ii/?envType=daily-question&envId=2024-12-02)  
+12.03 [检查棋盘方格颜色是否相同](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color/?envType=daily-question&envId=2024-12-03)  
