@@ -227,3 +227,5 @@
 12.01 [N皇后](https://leetcode.cn/problems/n-queens/?envType=daily-question&envId=2024-12-01)  
 12.02 [N皇后 II](https://leetcode.cn/problems/n-queens-ii/?envType=daily-question&envId=2024-12-02)  
 12.03 [检查棋盘方格颜色是否相同](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color/?envType=daily-question&envId=2024-12-03)  
+12.04 [棋盘上有效移动组合的数目](https://leetcode.cn/problems/number-of-valid-move-combinations-on-chessboard/?envType=daily-question&envId=2024-12-04)    
+12.05 [捕获黑皇后需要的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen/?envType=daily-question&envId=2024-12-05)  
