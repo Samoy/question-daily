@@ -231,3 +231,4 @@
 12.05 [捕获黑皇后需要的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen/?envType=daily-question&envId=2024-12-05)  
 12.06 [可以被一步捕获的棋子数](https://leetcode.cn/problems/available-captures-for-rook/?envType=daily-question&envId=2024-12-06)  
 12.07 [骑士在棋盘上的概率](https://leetcode.cn/problems/knight-probability-in-chessboard/?envType=daily-question&envId=2024-12-07)  
+12.08 [变为棋盘](https://leetcode.cn/problems/transform-to-chessboard/?envType=daily-question&envId=2024-12-08)  
