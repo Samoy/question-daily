@@ -234,4 +234,5 @@
 12.08 [变为棋盘](https://leetcode.cn/problems/transform-to-chessboard/?envType=daily-question&envId=2024-12-08)  
 12.09 [判断国际象棋棋盘中一个格子的颜色](https://leetcode.cn/problems/determine-color-of-a-chessboard-square/?envType=daily-question&envId=2024-12-09)  
 12.10 [骑士拨号器](https://leetcode.cn/problems/knight-dialer/?envType=daily-question&envId=2024-12-10)  
-12.11 [半有序排列](https://leetcode.cn/problems/semi-ordered-permutation/?envType=daily-question&envId=2024-12-11)  
+12.11 [半有序排列](https://leetcode.cn/problems/semi-ordered-permutation/?envType=daily-question&envId=2024-12-11)    
+12.12 [购买物品的最大开销](https://leetcode.cn/problems/maximum-spending-after-buying-items/?envType=daily-question&envId=2024-12-12)  
