@@ -236,3 +236,4 @@
 12.10 [骑士拨号器](https://leetcode.cn/problems/knight-dialer/?envType=daily-question&envId=2024-12-10)  
 12.11 [半有序排列](https://leetcode.cn/problems/semi-ordered-permutation/?envType=daily-question&envId=2024-12-11)    
 12.12 [购买物品的最大开销](https://leetcode.cn/problems/maximum-spending-after-buying-items/?envType=daily-question&envId=2024-12-12)  
+12.13 [K 次乘运算后的最终数组 I](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i/?envType=daily-question&envId=2024-12-13)  
