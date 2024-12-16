@@ -239,3 +239,4 @@
 12.13 [K 次乘运算后的最终数组 I](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i/?envType=daily-question&envId=2024-12-13)  
 12.14 [K 次乘运算后的最终数组 II](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-ii/?envType=daily-question&envId=2024-12-14)  
 12.15 [数组大小减半](https://leetcode.cn/problems/reduce-array-size-to-the-half/?envType=daily-question&envId=2024-12-15)  
+12.16 [最近的房间](https://leetcode.cn/problems/closest-room/?envType=daily-question&envId=2024-12-16)  
