@@ -243,3 +243,4 @@
 12.17 [形成目标字符串需要的最少字符串数 I](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-i/?envType=daily-question&envId=2024-12-17)  
 12.18 [形成目标字符串需要的最少字符串数 II](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-ii/?envType=daily-question&envId=2024-12-18)  
 12.19 [找到稳定山的下标](https://leetcode.cn/problems/find-indices-of-stable-mountains/?envType=daily-question&envId=2024-12-19)  
+12.20 [同位字符串连接的最小长度](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation/?envType=daily-question&envId=2024-12-20)  
