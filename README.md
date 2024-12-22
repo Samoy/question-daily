@@ -245,3 +245,4 @@
 12.19 [找到稳定山的下标](https://leetcode.cn/problems/find-indices-of-stable-mountains/?envType=daily-question&envId=2024-12-19)  
 12.20 [同位字符串连接的最小长度](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation/?envType=daily-question&envId=2024-12-20)  
 12.21 [根据第K场考试的分数排序](https://leetcode.cn/problems/sort-the-students-by-their-kth-score/?envType=daily-question&envId=2024-12-21)  
+12.22 [将整数按权重排序](https://leetcode.cn/problems/sort-integers-by-the-power-value/?envType=daily-question&envId=2024-12-22)  
