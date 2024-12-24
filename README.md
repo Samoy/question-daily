@@ -247,3 +247,4 @@
 12.21 [根据第K场考试的分数排序](https://leetcode.cn/problems/sort-the-students-by-their-kth-score/?envType=daily-question&envId=2024-12-21)  
 12.22 [将整数按权重排序](https://leetcode.cn/problems/sort-integers-by-the-power-value/?envType=daily-question&envId=2024-12-22)  
 12.23 [考场就座](https://leetcode.cn/problems/exam-room/description/?envType=daily-question&envId=2024-12-23)  
+12.24 [吃苹果的最大数目](https://leetcode.cn/problems/maximum-number-of-eaten-apples/?envType=daily-question&envId=2024-12-24)  
