@@ -250,3 +250,5 @@
 12.24 [吃苹果的最大数目](https://leetcode.cn/problems/maximum-number-of-eaten-apples/?envType=daily-question&envId=2024-12-24)  
 12.25 [切蛋糕的最小开销Ⅰ](https://leetcode.cn/problems/minimum-cost-for-cutting-cake-i/?envType=daily-question&envId=2024-12-25)  
 12.26 [字符串及其反转中是否存在同一子字符串](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/?envType=daily-question&envId=2024-12-26)  
+12.27 [查询数组中元素出现的位置](https://leetcode.cn/problems/find-occurrences-of-an-element-in-an-array/?envType=daily-question&envId=2024-12-27)    
+12.28 [分割数组](https://leetcode.cn/problems/split-the-array/description/?envType=daily-question&envId=2024-12-28)  
