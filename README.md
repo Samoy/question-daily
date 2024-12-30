@@ -252,3 +252,5 @@
 12.26 [字符串及其反转中是否存在同一子字符串](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/?envType=daily-question&envId=2024-12-26)  
 12.27 [查询数组中元素出现的位置](https://leetcode.cn/problems/find-occurrences-of-an-element-in-an-array/?envType=daily-question&envId=2024-12-27)    
 12.28 [分割数组](https://leetcode.cn/problems/split-the-array/description/?envType=daily-question&envId=2024-12-28)  
+12.29 [通过投票对团队排名](https://leetcode.cn/problems/rank-teams-by-votes/?envType=daily-question&envId=2024-12-29)  
+12.30 [二叉树中的链表](https://leetcode.cn/problems/linked-list-in-binary-tree/?envType=daily-question&envId=2024-12-30)  
