@@ -254,4 +254,10 @@
 12.28 [分割数组](https://leetcode.cn/problems/split-the-array/description/?envType=daily-question&envId=2024-12-28)  
 12.29 [通过投票对团队排名](https://leetcode.cn/problems/rank-teams-by-votes/?envType=daily-question&envId=2024-12-29)  
 12.30 [二叉树中的链表](https://leetcode.cn/problems/linked-list-in-binary-tree/?envType=daily-question&envId=2024-12-30)  
-12.31 [切蛋糕的最小开销Ⅱ](https://leetcode.cn/problems/minimum-cost-for-cutting-cake-ii/?envType=daily-question&envId=2024-12-31)  
+12.31 [切蛋糕的最小开销Ⅱ](https://leetcode.cn/problems/minimum-cost-for-cutting-cake-ii/?envType=daily-question&envId=2024-12-31)
+
+## 2025
+
+## 1月
+
+01.01 [将日期转换为二进制表示](https://leetcode.cn/problems/convert-date-to-binary/?envType=daily-question&envId=2025-01-01)  
