@@ -266,3 +266,4 @@
 01.04 [我的日程安排表 Ⅲ](https://leetcode.cn/problems/my-calendar-iii/?envType=daily-question&envId=2025-01-04)  
 01.05 [设计一个 ATM 机器](https://leetcode.cn/problems/design-an-atm-machine/?envType=daily-question&envId=2025-01-05)  
 01.06 [不含特殊楼层的最大连续楼层数](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/?envType=daily-question&envId=2025-01-06)  
+01.07 [按键变更的次数](https://leetcode.cn/problems/number-of-changing-keys/?envType=daily-question&envId=2025-01-07)  
