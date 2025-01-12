@@ -271,3 +271,4 @@
 01.09 [统计重新排列后包含另一个字符串的子字符串数目 I](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/description/?envType=daily-question&envId=2025-01-09)  
 01.10 [统计重新排列后包含另一个字符串的子字符串数目 II](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/?envType=daily-question&envId=2025-01-10)  
 01.11 [求出数字答案](https://leetcode.cn/problems/find-the-key-of-the-numbers/?envType=daily-question&envId=2025-01-11)  
+01.12 [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/?envType=daily-question&envId=2025-01-12)  
