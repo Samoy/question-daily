@@ -272,3 +272,8 @@
 01.10 [统计重新排列后包含另一个字符串的子字符串数目 II](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/?envType=daily-question&envId=2025-01-10)  
 01.11 [求出数字答案](https://leetcode.cn/problems/find-the-key-of-the-numbers/?envType=daily-question&envId=2025-01-11)  
 01.12 [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/?envType=daily-question&envId=2025-01-12)  
+01.13 [分割数组的方案数](https://leetcode.cn/problems/number-of-ways-to-split-array/?envType=daily-question&envId=2025-01-13)  
+01.14 [超过阈值的最小操作数](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-i/?envType=daily-question&envId=2025-01-14)  
+01.15 [超过阈值的最小操作数 II](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii/?envType=daily-question&envId=2025-01-15)  
+01.16 [或值至少 K 的最短子数组 I](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-i/?envType=daily-question&envId=2025-01-16)  
+01.17 [或值至少 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/?envType=daily-question&envId=2025-01-17)  
