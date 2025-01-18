@@ -277,3 +277,4 @@
 01.15 [超过阈值的最小操作数 II](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii/?envType=daily-question&envId=2025-01-15)  
 01.16 [或值至少 K 的最短子数组 I](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-i/?envType=daily-question&envId=2025-01-16)  
 01.17 [或值至少 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/?envType=daily-question&envId=2025-01-17)  
+01.18 [求出数组中最大序列值](https://leetcode.cn/problems/find-the-maximum-sequence-value-of-array/?envType=daily-question&envId=2025-01-18)  
