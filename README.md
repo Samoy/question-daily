@@ -278,3 +278,5 @@
 01.16 [或值至少 K 的最短子数组 I](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-i/?envType=daily-question&envId=2025-01-16)  
 01.17 [或值至少 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/?envType=daily-question&envId=2025-01-17)  
 01.18 [求出数组中最大序列值](https://leetcode.cn/problems/find-the-maximum-sequence-value-of-array/?envType=daily-question&envId=2025-01-18)  
+01.19 [统计打字方案数](https://leetcode.cn/problems/count-number-of-texts/?envType=daily-question&envId=2025-01-19)  
+01.20 [找到最接近0的数字](https://leetcode.cn/problems/find-closest-number-to-zero/?envType=daily-question&envId=2025-01-20)  
