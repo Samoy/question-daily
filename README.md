@@ -281,3 +281,4 @@
 01.19 [统计打字方案数](https://leetcode.cn/problems/count-number-of-texts/?envType=daily-question&envId=2025-01-19)  
 01.20 [找到最接近0的数字](https://leetcode.cn/problems/find-closest-number-to-zero/?envType=daily-question&envId=2025-01-20)  
 01.21 [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/?envType=daily-question&envId=2025-01-21)  
+01.22 [你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/?envType=daily-question&envId=2025-01-22)  
