@@ -282,3 +282,4 @@
 01.20 [找到最接近0的数字](https://leetcode.cn/problems/find-closest-number-to-zero/?envType=daily-question&envId=2025-01-20)  
 01.21 [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/?envType=daily-question&envId=2025-01-21)  
 01.22 [你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/?envType=daily-question&envId=2025-01-22)  
+01.23 [收集所有金币可获得的最大积分](https://leetcode.cn/problems/maximum-points-after-collecting-coins-from-all-nodes/?envType=daily-question&envId=2025-01-23)  
