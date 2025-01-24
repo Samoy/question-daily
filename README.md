@@ -283,3 +283,4 @@
 01.21 [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/?envType=daily-question&envId=2025-01-21)  
 01.22 [你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/?envType=daily-question&envId=2025-01-22)  
 01.23 [收集所有金币可获得的最大积分](https://leetcode.cn/problems/maximum-points-after-collecting-coins-from-all-nodes/?envType=daily-question&envId=2025-01-23)  
+01.24 [购买水果需要的最少金币数](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits/?envType=daily-question&envId=2025-01-24)  
