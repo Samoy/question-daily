@@ -286,3 +286,4 @@
 01.24 [购买水果需要的最少金币数](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits/?envType=daily-question&envId=2025-01-24)  
 01.25 [完成所有交易的初始最少钱数](https://leetcode.cn/problems/minimum-money-required-before-transactions/?envType=daily-question&envId=2025-01-25)  
 01.26 [组合总和II](https://leetcode.cn/problems/combination-sum-ii/?envType=daily-question&envId=2025-01-26)  
+01.27 [跳跃游戏II](https://leetcode.cn/problems/jump-game-ii/?envType=daily-question&envId=2025-01-27)  
