@@ -287,3 +287,13 @@
 01.25 [完成所有交易的初始最少钱数](https://leetcode.cn/problems/minimum-money-required-before-transactions/?envType=daily-question&envId=2025-01-25)  
 01.26 [组合总和II](https://leetcode.cn/problems/combination-sum-ii/?envType=daily-question&envId=2025-01-26)  
 01.27 [跳跃游戏II](https://leetcode.cn/problems/jump-game-ii/?envType=daily-question&envId=2025-01-27)  
+01.28 [杨辉三角Ⅱ](https://leetcode.cn/problems/pascals-triangle-ii/?envType=daily-question&envId=2025-01-28)  
+01.29 [存在重复元素Ⅱ](https://leetcode.cn/problems/contains-duplicate-ii/?envType=daily-question&envId=2025-01-29)  
+01.30 [两个数组的交集Ⅱ](https://leetcode.cn/problems/intersection-of-two-arrays-ii/?envType=daily-question&envId=2025-01-30)  
+01.31 [反转字符串Ⅱ](https://leetcode.cn/problems/reverse-string-ii/?envType=daily-question&envId=2025-01-31)
+
+## 2月
+
+02.01 [搜索螺旋数组Ⅱ](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/description/?envType=daily-question&envId=2025-02-01)    
+02.02 [区间加法Ⅱ](https://leetcode.cn/problems/range-addition-ii/?envType=daily-question&envId=2025-02-02)  
+02.03 [验证回文串Ⅱ](https://leetcode.cn/problems/valid-palindrome-ii/?envType=daily-question&envId=2025-02-03)  
