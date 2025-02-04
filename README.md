@@ -297,3 +297,4 @@
 02.01 [搜索螺旋数组Ⅱ](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/description/?envType=daily-question&envId=2025-02-01)    
 02.02 [区间加法Ⅱ](https://leetcode.cn/problems/range-addition-ii/?envType=daily-question&envId=2025-02-02)  
 02.03 [验证回文串Ⅱ](https://leetcode.cn/problems/valid-palindrome-ii/?envType=daily-question&envId=2025-02-03)  
+02.04 [按奇偶排序数组 II](https://leetcode.cn/problems/sort-array-by-parity-ii/?envType=daily-question&envId=2025-02-04)  
