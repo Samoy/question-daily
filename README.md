@@ -299,3 +299,4 @@
 02.03 [验证回文串Ⅱ](https://leetcode.cn/problems/valid-palindrome-ii/?envType=daily-question&envId=2025-02-03)  
 02.04 [按奇偶排序数组 II](https://leetcode.cn/problems/sort-array-by-parity-ii/?envType=daily-question&envId=2025-02-04)  
 02.05 [子集II](https://leetcode.cn/problems/subsets-ii/?envType=daily-question&envId=2025-02-05)  
+02.06 [全排列II](https://leetcode.cn/problems/permutations-ii/?envType=daily-question&envId=2025-02-06)  
