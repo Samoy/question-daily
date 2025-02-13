@@ -306,3 +306,4 @@
 02.10 [猫和老鼠](https://leetcode.cn/problems/cat-and-mouse/?envType=daily-question&envId=2025-02-10)  
 02.11 [猫和老鼠Ⅱ](https://leetcode.cn/problems/cat-and-mouse-ii/?envType=daily-question&envId=2025-02-11)  
 02.12 [袋子里最少数目的球](https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/?envType=daily-question&envId=2025-02-12)  
+02.13 [盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/?envType=daily-question&envId=2025-02-13)  
