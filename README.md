@@ -309,3 +309,4 @@
 02.13 [盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/?envType=daily-question&envId=2025-02-13)  
 02.14 [两球之间的磁力](https://leetcode.cn/problems/magnetic-force-between-two-balls/?envType=daily-question&envId=2025-02-14)  
 02.15 [球会落在何处](https://leetcode.cn/problems/where-will-the-ball-fall/?envType=daily-question&envId=2025-02-15)  
+02.16 [将每个元素替换为右侧最大元素](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/?envType=daily-question&envId=2025-02-16)  
