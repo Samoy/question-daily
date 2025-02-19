@@ -312,3 +312,4 @@
 02.16 [将每个元素替换为右侧最大元素](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/?envType=daily-question&envId=2025-02-16)  
 02.17 [有序数组中出现次数超过25%的元素](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/?envType=daily-question&envId=2025-02-17)  
 02.18 [区间内查询数字的频率](https://leetcode.cn/problems/range-frequency-queries/description/?envType=daily-question&envId=2025-02-18)  
+02.19 [数组列表中的最大距离](https://leetcode.cn/problems/maximum-distance-in-arrays/?envType=daily-question&envId=2025-02-19)  
