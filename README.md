@@ -315,3 +315,4 @@
 02.19 [数组列表中的最大距离](https://leetcode.cn/problems/maximum-distance-in-arrays/?envType=daily-question&envId=2025-02-19)  
 02.20 [奇偶位数](https://leetcode.cn/problems/number-of-even-and-odd-bits/?envType=daily-question&envId=2025-02-20)  
 02.21 [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/?envType=daily-question&envId=2025-02-21)  
+02.22 [统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/?envType=daily-question&envId=2025-02-22)  
