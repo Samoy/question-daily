@@ -316,3 +316,4 @@
 02.20 [奇偶位数](https://leetcode.cn/problems/number-of-even-and-odd-bits/?envType=daily-question&envId=2025-02-20)  
 02.21 [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/?envType=daily-question&envId=2025-02-21)  
 02.22 [统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/?envType=daily-question&envId=2025-02-22)  
+02.23 [设计跳表](https://leetcode.cn/problems/design-skiplist/?envType=daily-question&envId=2025-02-23)  
