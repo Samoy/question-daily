@@ -317,3 +317,4 @@
 02.21 [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/?envType=daily-question&envId=2025-02-21)  
 02.22 [统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/?envType=daily-question&envId=2025-02-22)  
 02.23 [设计跳表](https://leetcode.cn/problems/design-skiplist/?envType=daily-question&envId=2025-02-23)  
+02.24 [设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/?envType=daily-question&envId=2025-02-24)  
