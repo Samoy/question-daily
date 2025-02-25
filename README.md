@@ -318,3 +318,4 @@
 02.22 [统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/?envType=daily-question&envId=2025-02-22)  
 02.23 [设计跳表](https://leetcode.cn/problems/design-skiplist/?envType=daily-question&envId=2025-02-23)  
 02.24 [设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/?envType=daily-question&envId=2025-02-24)  
+02.25 [设计内存分配器](https://leetcode.cn/problems/design-memory-allocator/?envType=daily-question&envId=2025-02-25)  
