@@ -319,3 +319,5 @@
 02.23 [设计跳表](https://leetcode.cn/problems/design-skiplist/?envType=daily-question&envId=2025-02-23)  
 02.24 [设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/?envType=daily-question&envId=2025-02-24)  
 02.25 [设计内存分配器](https://leetcode.cn/problems/design-memory-allocator/?envType=daily-question&envId=2025-02-25)  
+02.26 [设计浏览器历史记录](https://leetcode.cn/problems/design-browser-history/?envType=daily-question&envId=2025-02-26)  
+02.27 [设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/?envType=daily-question&envId=2025-02-27)  
